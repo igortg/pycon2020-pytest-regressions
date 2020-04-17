@@ -1,0 +1,11 @@
+/* @theme python */
+
+@import 'uncover';
+
+h1 {
+    font-size: 48pt;
+}
+
+h2 {
+    font-size: 30pt;
+}

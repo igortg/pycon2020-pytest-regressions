@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/03_markdownify" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04_flask_view" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01_car" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05_flask_api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02_bezier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/06_image" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (pycon2020)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>

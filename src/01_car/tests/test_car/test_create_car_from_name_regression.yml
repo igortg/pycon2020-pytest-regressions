@@ -1,0 +1,9 @@
+displacement: 1998
+manufacturer: Mazda
+model: MX-5
+power: 158
+torque: 200
+transmission:
+  n_speed: 5
+  type_: manual
+year: 2015
