@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/05_flask_api" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/02_bezier" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/06_image" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/07_serialchemy" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (pycon2020)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

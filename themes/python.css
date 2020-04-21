@@ -7,5 +7,21 @@ h1 {
 }
 
 h2 {
+    font-size: 40pt;
+}
+
+h3 {
     font-size: 30pt;
+}
+
+section {
+    font-size: 24pt;
+}
+
+pre {
+    font-size: 20pt;
+}
+
+footer {
+    font-size: 14pt;
 }

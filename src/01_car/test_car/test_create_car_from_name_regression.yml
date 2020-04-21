@@ -1,0 +1,9 @@
+displacement: 1794
+manufacturer: Toyota
+model: Corolla
+power: 120
+torque: 165
+transmission:
+  n_speed: 5
+  type_: manual
+year: 1999

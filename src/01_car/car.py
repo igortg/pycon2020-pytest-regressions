@@ -24,7 +24,7 @@ def create_car_from_name(name):
     car = Car(
         manufacturer = 'Toyota',
         model = 'Corolla',
-        transmission = Transmission(n_speed=5, type_=TR_MANUAL),
+        transmission = Transmission(n_speed=4, type_=TR_AUTO),
         year = 1999,
         displacement = 1794,
         power = 120 ,
